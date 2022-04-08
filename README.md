@@ -1,0 +1,1 @@
+# nginx_ec2_cloudformationtemplate
